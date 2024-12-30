@@ -74,7 +74,7 @@ export default function Home() {
     <>
       <section className=" flex gap-5">
         <CategoryMenu ClassName="fixed top-[85px] left-0 right-0 z-10  max-sm:hidden  2xl:relative 2xl:top-0 2xl:rounded-xl  2xl:card-wrapper " />
-        <div className="h-[600px] bg-red-400 card-wrapper flex-1 max-2xl:mt-8 rounded-xl"></div>
+        <div className="h-[600px]  card-wrapper flex-1 max-2xl:mt-8 rounded-xl"></div>
       </section>
 
       <section className=" mt-10 flex gap-8 w-full 2xl:flex-row flex-col-reverse h-full">
